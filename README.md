@@ -118,10 +118,9 @@ Built an interactive dashboard with two pages:
 
 [Credit Risk Analysis Dashboard](https://github.com/ManyaGupta-mg/Credit-Risk-Analysis/blob/main/Credit%20Risk%20Analysis%20Dashboard%20.png)
 
-[Portfolio Overview]()
+[Portfolio Overview](https://github.com/ManyaGupta-mg/Credit-Risk-Analysis/blob/main/Portfolio%20Overview.png)
 
-
-### Risk Driver Analysis
+[Risk Driver Analysis]()
 
 
 ---
