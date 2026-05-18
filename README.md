@@ -116,7 +116,7 @@ Built an interactive dashboard with two pages:
 
 ## Dashboard Preview
 
-[Credit Risk Analysis Dashboard]()
+[Credit Risk Analysis Dashboard](Credit Risk Analysis Dashboard.png)
 
 ### Portfolio Overview
 
